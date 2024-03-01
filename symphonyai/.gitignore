@@ -1,0 +1,7 @@
+__pycache__/
+*.env
+data/midi_datasets/
+data/processed_features/
+notebooks/*.ipynb_checkpoints/
+models/*.h5
+models/*.pt
