@@ -1,0 +1,5 @@
+__pycache__/
+*.env
+data/user_logs/
+notebooks/*.ipynb_checkpoints/
+models/*.pkl
