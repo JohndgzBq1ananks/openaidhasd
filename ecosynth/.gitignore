@@ -1,0 +1,7 @@
+__pycache__/
+*.env
+data/raw_compounds/
+data/simulated_properties/
+notebooks/*.ipynb_checkpoints/
+models/*.pkl
+models/*.h5
